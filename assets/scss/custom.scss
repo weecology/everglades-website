@@ -1,0 +1,29 @@
+// Responsive fullscreen option for widgets
+// .home-section.banner {
+//     min-height: calc(100vh - 1000px);
+//   }
+//   @include media-breakpoint-down(md) {
+//     .home-section.banner {
+//       min-height: calc(100vh - 1000px);
+//     }
+//   }
+
+@media (min-width: 480px) {
+    .home-section.banner { min-height: 200px; }
+}
+
+@media (min-width: 768px) {
+    .home-section.banner { min-height: 150px; }
+}
+
+@media (min-width: 992px) {
+    .home-section.banner { min-height: 400px; }
+}
+
+.home-section {
+    // Use `background` rather than `background-color` so it can support gradients in theme packs.
+    background: $sta-home-section-odd;
+    position: relative; // Required for component positioning within section.
+    padding: 50px 0 50px 0;
+    z-index: 0; // Explicit z-order otherwise `.home-section-bg` can be hidden by any `.home-section` background.
+  }
