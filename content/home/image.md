@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: hero
 
 # Activate this widget? true/false
 active: true
@@ -9,23 +9,25 @@ active: true
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 30
+title: 
 
-title:
-subtitle:
+# Order that this section appears on the page.
+weight: 5
 
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: everglade-great-blue-heron.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: covers
+       # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:
-  css_class: fullscreen
+  css_class: banner
+  
 ---
+
