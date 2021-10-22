@@ -1,11 +1,25 @@
 ---
-title: "An example journal article"
+title: "A general deep learning model for bird detection in high resolution airborne imagery"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Ben Weinstein
+- Lindsey Gardner
+- Vienna R. Saccomanno
+- Ashley Steinkraus
+- Andrew Ortega
+- Kristen Brush
+- Glenda Yenni
+- Ann E. McKellar
+- Rowan Converse
+- Christopher D. Lippitt
+- Alex Wegmann
+- Nick D. Holmes
+- Alice J. Edney
+- Tom Hart
+- Mark J. Jessopp
+- Ryan Dotson
+- Ethan P. White
+- Peter Frederick
+- S.K. Morgan Ernest
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
