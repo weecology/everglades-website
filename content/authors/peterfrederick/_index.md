@@ -1,4 +1,5 @@
 ---
+weight: 3
 # Display name
 title: Peter C. Frederick
 
