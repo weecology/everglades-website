@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peter Frederick
+title: Peter C. Frederick
 
 # Is this the primary user of the site?
 superuser: false
