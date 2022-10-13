@@ -25,7 +25,7 @@ design:
        # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["150px", "0", "150px", "0"]
 advanced:
   css_class: banner
   
