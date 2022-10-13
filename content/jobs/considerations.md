@@ -3,6 +3,7 @@ title: Job Considerations
 summary: Things to consider before applying for or accepting a position
 show_date: false
 profile: false
+editable: true
 ---
 
 Things to consider before applying for or accepting a position with the University of Florida Wading Bird Project.
