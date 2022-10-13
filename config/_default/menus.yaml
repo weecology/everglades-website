@@ -19,6 +19,9 @@ main:
   - name: Study Design
     url: study-design
     weight: 60
+  - name: Jobs
+    url: jobs
+    weight: 70
   - name: Contact
     url: contact
     weight: 80
