@@ -5,7 +5,7 @@
 
 title: Everglades Wading Bird Project # Website name
 subtitle: Wading Bird Distribution & Dynamics in the Everglades
-baseURL: '' # Website URL
+baseURL: 'https://everglades.weecology.org' # Website URL
 
 ############################
 ## LANGUAGE
