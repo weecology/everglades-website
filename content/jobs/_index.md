@@ -1,5 +1,7 @@
 ---
-Title: Jobs
+title: Jobs
+show_date: false
+profile: false
 ---
 
 During each January - June nesting season, the University of Florida employs 2 - 3 field technicians for approximately 5 months to assist with data collection and analysis. Successful candidates typically have: a B.S. or B.A. in Biology, Environmental Sciences, or a related field; a valid US driver's license and good driving record; at least 6 months prior field research experience; and excellent physical conditioning.

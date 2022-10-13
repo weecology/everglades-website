@@ -1,5 +1,7 @@
 ---
 title: Study Area
+show_date: false
+profile: false
 ---
 
 The mainland Everglades covers approximately 1500 square miles and represents the largest roadless area in the United States south of Alaska. Our work is focused primarily in the Water Conservation Areas shown at right. Gray lines depict air survey transects. Although most of the numerous canals can be accessed with standard motorboats, moving farther into the shallow "slough and strand" sawgrass environment requires the use of airboats.

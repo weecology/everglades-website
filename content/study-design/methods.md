@@ -1,5 +1,7 @@
 ---
 title: Methods
+show_date: false
+profile: false
 ---
 
 To determine the number of Wading Bird nesting pairs in all three Water Conservation Areas, we conduct systematic monthly aerial surveys over the entire study area from mid-February through mid-June. These are done at an altitude of 800' from a Cessna 172 contracted through Speed Aviation in Homestead Florida. Front- and rear-seat observers search for nest colonies and, when one is located, make visual count estimates of all light-plumaged species. Colony locations are determined using hand-held GPS receivers. Digital photographs are also taken for later analysis. Each survey usually takes three to four morning flights to complete.
