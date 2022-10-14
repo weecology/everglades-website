@@ -12,3 +12,5 @@ Throughout the nesting period we regularly access 5-8 larger colonies to gather 
 To coincide with weekly nest checks, we also survey these colonies via weekly UAV or "drone" flights. These surveys provide high quality imagery of the entire colony on a weekly scale. We can use this data to determine nest turnover, nest success, and species ID via machine learning. These technologies can provide us with more data through larger sample sizes and additional information on the overall characteristics of the colony, with potentially less disturbance. 
 
 At the height of the nesting season we spend two weeks completing systematic ground surveys in WCA 3a (using airboats). These surveys consist of long days of driving airboats along standardized routes. Species of wading birds flushed from each tree island along the routes are identified and counted. These surveys provide a much better estimate of dark-plumaged and non-colonial nesters that cannot be obtained from the air due to low detection rates.
+
+{{< gallery album="methods" >}}

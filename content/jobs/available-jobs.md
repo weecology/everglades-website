@@ -17,3 +17,5 @@ In addition to field work there is also office time: aerial photo analyses, data
 If this sounds like something for you please take into account these [Considerations](considerations) before accepting a position with us
 
 Applications should go directly to the Research Coordinator, [Lindsey Garner](mailto:everglades@weecology.org) (e-mail strongly preferred). See the Contact Page for her address.
+
+{{< gallery album="jobs" >}}

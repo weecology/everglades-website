@@ -16,3 +16,5 @@ South Florida also has a unique subtropical climate with a traditional wet seaso
 
 
 ![Map of the three water conservation areas. WCA1 to in the north east corner, WCA2 to the south and slightly west of WCA1, and WCA3 west of WCA2 and extending far to the south. WCA3 is much larger than the other two WCAs. All WCAs share boundaries with their neighboring WCA](photo_study_2.jpg)
+
+{{< gallery album="study-area" >}}
