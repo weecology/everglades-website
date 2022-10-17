@@ -8,7 +8,7 @@ editable: true
 
 Things to know and consider before applying for or accepting a position with the University of Florida Wading Bird Project.
 
-* If you don’t like to get dirty… This is not a traditional ornithology position where we may sit in blinds or run mist nets. We work with oily boat engines, walk through mucky and guano-laden waters, and handle birds that use feces and regurgitation as defensive tools. If you have an aversion to getting dirty, or wading through water, this may not be the best fit for you.
+* If you don’t like to get dirty… This is not a traditional bird position where we may sit in blinds or run mist nets. We work with oily boat engines, walk through mucky and guano-laden waters, and handle birds that use feces and regurgitation as defensive tools. If you have an aversion to getting dirty, or wading through water, this may not be the best fit for you.
 
  
 * If you are a smoker… be aware that the vast majority of your time will be spent in smoke-free environments—airboats, airplanes, university vehicles, university housing, and nesting colonies. 
