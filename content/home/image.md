@@ -17,13 +17,9 @@ weight: 5
 design:
   columns: "1"
   background:
-    image: everglade-great-blue-heron.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: covers
-       # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-    text_color_light: true
+    video:
+      path: feeding_video.mov
+
   spacing:
     padding: ["150px", "0", "150px", "0"]
 advanced:
