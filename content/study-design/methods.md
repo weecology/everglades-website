@@ -3,6 +3,7 @@ title: Methods
 show_date: false
 profile: false
 editable: true
+weight: 3
 ---
 
 To determine the distribution and total number of Wading Bird nesting pairs throughout the Water Conservation Areas, we conduct systematic monthly aerial surveys over the entire study area from mid-January through mid-June. These are done at an altitude of 800' from a Cessna 185 flown by a contracted pilot with appropriate qualifications and experience. Front- and rear-seat observers search for nest colonies and, when one is located, make visual count estimates of all light-plumaged species of wading birds. Colony locations are determined using hand-held GPS receivers. Using a digital camera, photographs of each colony are also taken for later analysis. The full survey usually takes three to four morning flights each month to complete. 

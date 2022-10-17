@@ -3,6 +3,7 @@ title: Study Area
 show_date: false
 profile: false
 editable: true
+weight: 1
 ---
 
 Historically, the headwaters of the Greater Everglades Ecosystem began just south of Orlando in the southward flowing Kissimmee River system. During the heavy rains of summer, the river would flow into Lake Okeechobee which would then spill water over its southern bank. Coupled with south Florida’s extremely flat topography, this created a 60 mile wide and 100 mile long slow-flowing river, which eventually discharged into Florida Bay. 
