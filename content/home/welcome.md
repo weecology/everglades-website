@@ -3,7 +3,6 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
 title: Everglades Wading Bird Project
-subtitle: Wading Bird Distribution & Dynamics in the Everglades
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
