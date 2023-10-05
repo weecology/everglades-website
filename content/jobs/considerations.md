@@ -1,6 +1,6 @@
 ---
 title: Job Considerations
-summary: Things to consider before applying for or accepting a position
+summary: Things [to consider before applying for or accepting a position...](../../jobs/considerations/)
 show_date: false
 profile: false
 editable: true
