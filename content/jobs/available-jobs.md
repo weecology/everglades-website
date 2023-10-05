@@ -1,6 +1,6 @@
 ---
 title: Field Technician Jobs
-summary: Field technician positions available January-June
+summary: Field [technician positions available January-June...](../../jobs/available-jobs)
 show_date: false
 profile: false
 editable: true
@@ -14,7 +14,7 @@ Crews do spend some "field" time inspecting and maintaining our four airboats, t
 
 In addition to field work we also spend time completing office work such as: aerial photo analyses, data entry, and other administrative responsibilities. This occasionally requires sitting for hours in front of a computer completing repetitive tasks. Total work hours vary somewhat, but we tend to average around 40 hrs/wk. For those with their own transportation, plenty of opportunities exist for exploring other areas in South Florida during off hours.
 
-If this sounds like something for you, please take into account these [Considerations](considerations) before accepting a position with us
+If this sounds like something for you, please take into account these [Considerations](../../jobs/considerations/) before accepting a position with us
 
 Applications should go directly to the Research Coordinator, [Lindsey Garner](mailto:everglades@weecology.org) (e-mail strongly preferred). See the Contact Page for her address.
 
