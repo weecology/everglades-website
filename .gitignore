@@ -5,3 +5,11 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# History files
+.Rhistory
+.Rapp.history
+.DS_Store
+*pycache*
+# Session Data files
+.RData
