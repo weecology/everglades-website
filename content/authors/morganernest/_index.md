@@ -7,7 +7,7 @@ title: S.K. Morgan Ernest
 superuser: true
 
 # Role/position
-role: Associate Professor of Wildlife Ecology and Conservation
+role: Professor of Wildlife Ecology and Conservation
 
 # Organizations/Affiliations
 organizations:

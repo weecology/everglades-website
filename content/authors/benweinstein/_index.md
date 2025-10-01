@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 4
 # Display name
 title: Ben Weinstein
 

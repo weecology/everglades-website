@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Glenda M. Yenni
+weight: 3
 
 # Is this the primary user of the site?
 superuser: true
