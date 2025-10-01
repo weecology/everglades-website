@@ -16,6 +16,6 @@ In addition to field work we also spend time completing office work such as: aer
 
 If this sounds like something for you, please take into account these [Considerations](../../jobs/considerations/) before accepting a position with us
 
-Applications should go directly to the Research Coordinator, [Lindsey Garner](mailto:everglades@weecology.org) (e-mail strongly preferred). See the Contact Page for her address.
+Applications should go directly to the Research Coordinator, [Michael Rickershauser](mailto:everglades@weecology.org) (e-mail strongly preferred).
 
 {{< gallery album="jobs" >}}

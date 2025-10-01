@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Peter is interested in understanding wetland processes both for their own sake, and as guides to restoration and conservation activities.  
+Peter is interested in understanding wetland processes both for their own sake, and as guides to restoration and conservation activities.

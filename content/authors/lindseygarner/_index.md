@@ -7,7 +7,7 @@ title: Lindsey Garner
 superuser: true
 
 # Role/position
-role: Research Coordinator
+role: Coordinator Emeritus
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Ethan's research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales.
