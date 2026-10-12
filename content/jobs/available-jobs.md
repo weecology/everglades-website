@@ -16,6 +16,6 @@ In addition to field work we also spend time completing office work such as: aer
 
 If this sounds like something for you, please take into account these [Considerations](../../jobs/considerations/) before accepting a position with us
 
-Applications should go directly to the Research Coordinator, [Michael Rickershauser](mailto:everglades@weecology.org) (e-mail strongly preferred).
+Applications should go directly to the Research Coordinator, Michael Rickershauser everglades@weecology.org. While general inquiries are always welcome, please note that applications are generally not reviewed outside of the hiring period (October/November). Available positions will be posted on the [Texas A&M](https://jobs.rwfm.tamu.edu/) and [Ornithology Exchange](https://ornithologyexchange.org/jobs/board/short-term-positions/) job boards during this time.
 
 {{< gallery album="jobs" >}}
